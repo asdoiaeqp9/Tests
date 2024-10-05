@@ -1,9 +1,3 @@
-local rip = true
-
-while true do
-    if rip then
-        game.Players.LocalPlayer:Kick("get a life")
-        break
-    end
-    wait(1)
-end
+return {
+    kick = false,
+}
