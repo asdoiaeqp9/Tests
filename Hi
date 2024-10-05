@@ -1,4 +1,4 @@
-local rip = false
+local rip = true
 
 while true do
     if rip then
